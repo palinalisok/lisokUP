@@ -1,0 +1,11 @@
+commit 5fb5d2f38feb8632b37e8b280707aed3bca4ea1f (HEAD -> master)
+Author: palina.lisok <palinalisok@gmail.com>
+Date:   Mon Feb 12 19:43:42 2018 +0300
+
+    add status.txt
+
+commit 98fd2d0bbe38155a7ff94dd2f58164400abfe611
+Author: palina.lisok <palinalisok@gmail.com>
+Date:   Mon Feb 12 19:40:09 2018 +0300
+
+    add .gitignore
